@@ -1,14 +1,19 @@
-# Recipe Finder
+# Recipe Ideas Finder
 
-A simple React-based application that allows users to search for recipes based on the ingredients they have and the time they have available for cooking. The app fetches data from [TheMealDB API](https://www.themealdb.com/api/json/v1/1/filter.php?i={ingredient}) and provides a clean, user-friendly interface to filter and discover meal ideas.
+A React-based recipe discovery application designed to help busy professionals quickly find meals they can cook based on ingredients they already have, their mood, or the time they have available.
 
+This project was built with usability, responsiveness, and clean UI in mind. It fetches real-time recipe data from TheMealDB API
+ and makes cooking easier and more fun.
+ 
 ## Features
 
-- **Ingredient-based Search**: Search for recipes by entering ingredients you have on hand.
+- **Ingredient-based Search**: Quickly find recipes by entering ingredients you have.
 - **Cooking Time Filter**: Filter recipes based on the maximum time you want to spend cooking.
+--**Mood / Cuisine Filter**: Pick cuisines (like Italian, Mexican, Indian) that match your current mood.
+- **Recipe Details**: View detailed information about a selected recipe.
 - **Responsive Design**: The app works on both desktop and mobile devices.
 - **Error Handling**: Gracefully handles errors, displaying messages when no results are found or when the API fails.
-- **Recipe Details**: View detailed information about a selected recipe.
+
 
 ## Technologies Used
 
