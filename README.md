@@ -54,7 +54,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 2. Navigate to the project folder:
     ```bash
-    cd recipe-finder
+    cd recipe-ideas-finder
     ```
 
 3. Install the dependencies:
