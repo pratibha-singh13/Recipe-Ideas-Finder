@@ -9,7 +9,7 @@ It fetches real-time recipe data from [TheMealDB API](https://www.themealdb.com)
 
 - **Ingredient-based Search**: Quickly find recipes by entering ingredients you have.
 - **Cooking Time Filter**: Filter recipes based on the maximum time you want to spend cooking.
---**Mood / Cuisine Filter**: Pick cuisines (like Italian, Mexican, Indian) that match your current mood.
+-**Mood / Cuisine Filter**: Pick cuisines (like Italian, Mexican, Indian) that match your current mood.
 - **Recipe Details**: View detailed information about a selected recipe.
 - **Responsive Design**: The app works on both desktop and mobile devices.
 - **Error Handling**: Gracefully handles errors, displaying messages when no results are found or when the API fails.
@@ -49,7 +49,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/recipe-finder.git
+    git clone https://github.com/pratibha-singh13/Recipe-Ideas-Finder.git
     ```
 
 2. Navigate to the project folder:
