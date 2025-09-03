@@ -64,7 +64,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 4. Run the app locally:
     ```bash
-    npm start
+    npm run dev
     ```
 
 
