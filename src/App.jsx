@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="app container mx-auto p-4">
       <header className="mb-4">
-        <h1 className="text-3xl font-bold text-center mb-2">🍳 Recipe Finder</h1>
+        <h1 className="text-3xl font-bold text-center mb-2">Recipe Ideas Finder</h1>
         <p className="text-center text-gray-600">
           Find meals by ingredients, mood, and more — perfect for busy days!
         </p>
