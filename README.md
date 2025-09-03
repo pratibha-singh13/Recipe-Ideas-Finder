@@ -2,9 +2,9 @@
 
 A React-based recipe discovery application designed to help busy professionals quickly find meals they can cook based on ingredients they already have, their mood, or the time they have available.
 
-This project was built with usability, responsiveness, and clean UI in mind. It fetches real-time recipe data from TheMealDB API
- and makes cooking easier and more fun.
- 
+This project was built with usability, responsiveness, and clean UI in mind.  
+It fetches real-time recipe data from [TheMealDB API](https://www.themealdb.com) and makes cooking easier and more fun.
+
 ## Features
 
 - **Ingredient-based Search**: Quickly find recipes by entering ingredients you have.
