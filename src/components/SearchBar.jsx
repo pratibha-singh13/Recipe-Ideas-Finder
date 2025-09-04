@@ -116,8 +116,7 @@ function SearchBar({ onSearch, defaultValues }) {
               <option value="Italian">Italian</option>
               <option value="Mexican">Mexican</option>
               <option value="Indian">Indian</option>
-              <option value="Quick">Quick</option>
-              <option value="Healthy">Healthy</option>
+              
             </select>
           </div>
         </div>
